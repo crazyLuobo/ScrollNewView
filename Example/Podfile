@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ScrollNewView_Example' do
+  pod 'ScrollNewView', :path => '../'
+
+  target 'ScrollNewView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
