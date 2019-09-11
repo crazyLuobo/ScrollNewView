@@ -1,0 +1,6 @@
+framework module Pods_ScrollNewView_Example {
+  umbrella header "Pods-ScrollNewView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

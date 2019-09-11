@@ -1,0 +1,6 @@
+framework module ScrollNewView {
+  umbrella header "ScrollNewView-umbrella.h"
+
+  export *
+  module * { export * }
+}

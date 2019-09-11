@@ -1,0 +1,28 @@
+{
+  "name": "ScrollNewView",
+  "version": "0.1.0",
+  "summary": "A short description of ScrollNewView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yanwenbo_78201@163.com/ScrollNewView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yanwenbo_78201@163.com": "yanwenbo_78201@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yanwenbo_78201@163.com/ScrollNewView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ScrollNewView/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}
